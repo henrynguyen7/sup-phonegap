@@ -7,17 +7,26 @@
     <author email="dev@cordova.apache.org" href="http://cordova.io">
         Apache Cordova Team
     </author>
+<<<<<<< HEAD
     <content src="http://192.168.1.103/sup/default/index.html" />
+=======
+    <content src="index.html" />
+>>>>>>> c4b841fb9002a2185c3135eeeddfb82ae30977e3
     <feature name="App">
         <param name="android-package" value="org.apache.cordova.App" />
     </feature>
     <feature name="PushPlugin">
         <param name="android-package" value="com.plugin.gcm.PushPlugin" />
     </feature>
+<<<<<<< HEAD
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
     <access origin="http://192.168.1.103" />
+=======
+    <content src="http://54.215.238.68" />
+    <access origin="http://54.215.238.68" />
+>>>>>>> c4b841fb9002a2185c3135eeeddfb82ae30977e3
     <preference name="useBrowserHistory" value="true" />
     <preference name="exit-on-suspend" value="false" />
     <preference name="permissions" value="none" />

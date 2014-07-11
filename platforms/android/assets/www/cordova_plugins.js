@@ -6,6 +6,7 @@ module.exports = [
         "clobbers": [
             "PushNotification"
         ]
+<<<<<<< HEAD
     },
     {
         "file": "plugins/org.apache.cordova.device/www/device.js",
@@ -13,6 +14,8 @@ module.exports = [
         "clobbers": [
             "device"
         ]
+=======
+>>>>>>> c4b841fb9002a2185c3135eeeddfb82ae30977e3
     }
 ]
 });
