@@ -31,10 +31,6 @@ public class sup extends CordovaActivity
         super.init();
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());
-<<<<<<< HEAD
-        //super.loadUrl("file:///android_asset/www/index.html")
-=======
->>>>>>> c4b841fb9002a2185c3135eeeddfb82ae30977e3
     }
 }
 
