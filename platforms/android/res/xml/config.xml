@@ -17,6 +17,9 @@
     <feature name="Device">
         <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
+    <feature name="AppPreferences">
+        <param name="android-package" value="me.apla.cordova.AppPreferences" />
+    </feature>
     <access origin="http://192.168.1.103" />
     <preference name="useBrowserHistory" value="true" />
     <preference name="exit-on-suspend" value="false" />
