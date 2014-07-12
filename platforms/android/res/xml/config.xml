@@ -14,11 +14,11 @@
     <feature name="PushPlugin">
         <param name="android-package" value="com.plugin.gcm.PushPlugin" />
     </feature>
-    <feature name="Device">
-        <param name="android-package" value="org.apache.cordova.device.Device" />
-    </feature>
     <feature name="AppPreferences">
         <param name="android-package" value="me.apla.cordova.AppPreferences" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
     </feature>
     <access origin="http://192.168.1.103" />
     <preference name="useBrowserHistory" value="true" />

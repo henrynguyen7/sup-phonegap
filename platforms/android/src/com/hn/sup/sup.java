@@ -22,7 +22,7 @@ package com.hn.sup;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class sup extends CordovaActivity 
+public class Sup extends CordovaActivity
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -31,6 +31,7 @@ public class sup extends CordovaActivity
         super.init();
         // Set by <content src="index.html" /> in config.xml
         super.loadUrl(Config.getStartUrl());
+        //super.loadUrl("file:///android_asset/www/index.html")
     }
 }
 

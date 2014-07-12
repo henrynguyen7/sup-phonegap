@@ -1,5 +1,5 @@
 # view AndroidManifest.xml #generated:6
--keep class com.hn.sup.sup { <init>(...); }
+-keep class com.hn.sup.Sup { <init>(...); }
 
 # view AndroidManifest.xml #generated:13
 -keep class com.plugin.gcm.CordovaGCMBroadcastReceiver { <init>(...); }

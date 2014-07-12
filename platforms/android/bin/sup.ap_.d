@@ -1,4 +1,4 @@
-/Users/henry/dev/workspace-personal/sup/platforms/android/bin/sup.ap_ \
+/Users/henry/dev/workspace-personal/sup/platforms/android/bin/Sup.ap_ \
  : /Users/henry/dev/workspace-personal/sup/platforms/android/res/drawable/icon.png \
 /Users/henry/dev/workspace-personal/sup/platforms/android/res/drawable-hdpi/icon.png \
 /Users/henry/dev/workspace-personal/sup/platforms/android/res/drawable-ldpi/icon.png \
@@ -25,9 +25,9 @@
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/res \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/spec \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/spec.html \
-/Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/task \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/css/index.css \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/img/logo.png \
+/Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/js/apppreferences.js \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/js/device.js \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/js/index.js \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/js/PushNotification.js \
@@ -109,5 +109,4 @@
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.css \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/spec/lib/jasmine-1.2.0/jasmine.js \
 /Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/spec/lib/jasmine-1.2.0/MIT.LICENSE \
-/Users/henry/dev/workspace-personal/sup/platforms/android/assets/www/task/AppPreferences.js \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/AndroidManifest.xml \

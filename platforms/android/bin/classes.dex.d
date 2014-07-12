@@ -7,7 +7,7 @@
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/hn/sup/R$string.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/hn/sup/R$xml.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/hn/sup/R.class \
-/Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/hn/sup/sup.class \
+/Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/hn/sup/Sup.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/plugin/gcm/CordovaGCMBroadcastReceiver.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/plugin/gcm/GCMIntentService.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/com/plugin/gcm/PushHandlerActivity.class \
