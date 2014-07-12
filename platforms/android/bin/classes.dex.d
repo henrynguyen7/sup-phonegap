@@ -18,7 +18,6 @@
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/me/apla/cordova/AppPreferences$4.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/me/apla/cordova/AppPreferences.class \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/org/apache/cordova/device/Device.class \
-/Users/henry/dev/workspace-personal/sup/platforms/android/bin/classes/R.java.d \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/dexedLibs/cordova-3.1.0-f771a2557211ca3725202c3bb7364fd9.jar \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/dexedLibs/gcm-a18dbab204e6150eb03b6564882efed3.jar \
 /Users/henry/dev/workspace-personal/sup/platforms/android/bin/dexedLibs/android-support-v13-5e25c01b285bb4312512f0a57f429e40.jar \
